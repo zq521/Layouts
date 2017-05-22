@@ -6,6 +6,9 @@ import android.view.View
 import android.widget.Button
 import android.widget.LinearLayout
 
+/**
+ * 用代码实现加载布局
+ */
 open class MainActivity : AppCompatActivity(), View.OnClickListener {
     override fun onClick(v: View?) {
 
